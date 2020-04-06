@@ -1,0 +1,22 @@
+
+#essay #tools #memory #spaced_repetition #learning
+# Takeaways
+The mnemonic medium:
+* Memory systems make memory into a choice, rather than an event left up to chance
+* Memory systems are in their infancy
+* What would a virtuoso use of the mnemonic medium look like?
+* Memory systems can be used to build genuine conceptual understanding, not just learn facts
+* Mnemonic techniques such as memory palaces are great, but not versatile enough to build genuine conceptual understanding
+* Memory is far more important than people tend to think
+
+Other ideas:
+* What practices would lead to tools for thought as transformative as Hindu-Arabic numerals? And in what ways does modern design practice and tech industry product practice fall short? To be successful, you need an _insight-through-making loop_ to be operating at full throttle, combining the best of deep research culture with the best of Silicon Valley product culture.
+* Tools for thought are (mostly) public goods, and as a result are undersupplied: That said, there are closely- related models of production which have succeeded (the games industry, Adobe, AutoDesk, Pixar). 
+* Take emotion seriously
+* Tools for thought must be developed in tandem with deep, original creative work
+
+# Resources
+Andy Matuschak and Michael Nielsen, “How can we develop transformative tools for thought?”, https://numinous.productions/ttft, San Francisco (2019).
+
+[Income note](/Users/kristinamacekovic/Google Drive/Zettelkasten/202002021739 Income distribution.txt)
+

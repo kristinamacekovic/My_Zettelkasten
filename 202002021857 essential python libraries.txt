@@ -1,0 +1,14 @@
+# Essential Python libraries
+For data analysis:
+- numpy
+- pandas
+- matplotlib
+- statsmodels
+- Ipython and jupyter
+- SciPy
+- scikit-learn
+
+
+# Resources
+McKinney, Wes. Python for Data Analysis, n.d. (Location: GDrive -> BOOKS -> Python)
+

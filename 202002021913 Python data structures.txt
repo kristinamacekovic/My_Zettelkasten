@@ -1,0 +1,5 @@
+# Tuples
+# Lists
+# Resources
+McKinney, Wes. Python for Data Analysis, n.d.
+

@@ -1,0 +1,16 @@
+
+#economics #python #income
+# Takeaways
+Suppose we start with an initial (income distribution for a) _population_. If the _actors_ in the population interact with each other based on a certain _transaction_, we always end up with the same distribution after a certain number of transactions. This is true even if we change any of the following parameters:
+- initial distribution
+- transaction function
+- if actors can act only locally or globally (i. e. with anyone, not just neighbors)
+With this, we always end up in a more unequal final state, expressed using the Gini coefficient (0.22-0.5 in this case). This distribution has a density expressed using the _beta function_.
+
+We can arrive at these results using 3 different thinking approaches:
+- mathematical: using Markov chains, purely theoretical
+- statistical: using "smaller" simulations and drawing on genetic research, between theoretical and empirical
+- computational: using a larger simulation size, i. e. purely empirical
+
+# Resources
+GitHub. “Norvig/Pytudes.” Accessed February 2, 2020. https://github.com/norvig/pytudes/blob/master/ipynb/Economics.ipynb

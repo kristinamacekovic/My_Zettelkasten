@@ -1,0 +1,20 @@
+# Python for data analysis
+An outline of relevant chapters from the book with links to notes:
+- [x] Chapter 2: Language basics, Ipython, Jupyter [[python basics]]
+- [x] Chapter 3: Built-in data structures, functions, files [[202002021913 Python data structures]] 202002021913 Python data structures
+- [x] Chapter 4: Numpy basics, arrays, vectorized computation [[python numpy basics]]
+- [x] Chapter 5: Getting started with pandas [[python pandas basics]]
+- [x] Chapter 6: Data loading, storage, file formats [[python data files]]
+- [x] Chapter 7: Data cleaning and preparation [[python data prep]]
+- Chapter 8: Data wrangling: join, combine, reshape [[python data wrangling]]
+- Chapter 9: Plotting, visualization [[python visualization]]
+- Chapter 10: Data aggregation and group operations [[python data aggregation]]
+- Chapter 11: Time series [[python time series]]
+- Chapter 12: Advanced pandas [[python advanced pandas]]
+- Chapter 13: Intro to modeling libraries in Python [[python modeling]]
+- Chapter 14: Data analysis examples [[python data analysis examples]]
+- Appendix A: Advanced numpy [[python advanced numpy]]
+- Appendix B: More about the Ipython environment [[python ipython]]
+
+# Resources
+McKinney, Wes. Python for Data Analysis, n.d.
